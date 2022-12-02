@@ -1,4 +1,4 @@
-#  a=int(input("entrer number"))
+# a=int(input("entrer number"))
 # i=1
 # while a>0:
 #     i=i*a
@@ -7,8 +7,6 @@
 
 # 5!=5*4*3*2*1=120
 
-# from re import I
-
 
 # i=int(input("enter the number"))
 # fac=1
@@ -16,6 +14,7 @@
 #     fac=fac*i
 #     i=i-1
 # print("factorial=",fac)
+
 
 # a=int(input("enter number"))
 # i=1
